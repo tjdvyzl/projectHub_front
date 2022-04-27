@@ -4,7 +4,7 @@
  
 > * 만드는 동안 사용한 노션과 백엔드 부분 링크입니다.   
 >   * [개발 노션](https://www.notion.so/IGRUS-2-bb8c7091982346c1bf5941d81f690746)
->   * [백엔드](https://github.com/Ldj-git/projectHub_back)
+>   * [프론트엔드](https://github.com/tjdvyzl/projectHub_front/tree/master/projectHub_front-main)
 
 >![](./screen-shot/main.png)
 > 메인 화면
